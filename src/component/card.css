@@ -1,0 +1,61 @@
+.card {
+    min-height: 35vh;
+    width: 60%;
+}
+
+.top-container{
+    margin-top:20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.image{
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+
+.text {
+ 
+    margin-top: 15px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+  }
+
+.peraa {
+    color: hsl(227, 10%, 63%);
+    font-size: 10px;
+    text-align: center;
+    /* margin-bottom: 27px; */
+  }
+
+  .dot {
+    color: hsl(227, 10%, 63%);
+    font-size: 10px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 40px;
+    
+  }
+
+  .button2{
+    background-color: hsl(231, 69%, 60%);
+    color: aliceblue;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    width: 80%;
+    padding: 8px 4px 8px 4px;
+  }
+
+
+
+
+
+
